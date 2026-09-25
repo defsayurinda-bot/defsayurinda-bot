@@ -1,11 +1,11 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-gelap.svg">
-  <img alt="Defsa Yurinda, Teknik Sipil Universitas Jambi" src="assets/banner-terang.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-gelap.png">
+  <img alt="Defsa Yurinda, Teknik Sipil Universitas Jambi" src="assets/banner-terang.png">
 </picture>
 
-Mahasiswa Teknik Sipil di Universitas Jambi, dengan minat utama geoteknik. Saya membuat alat hitung dan latihan soal geoteknik yang bisa dipakai siapa saja, dan mencatat cara saya belajar bersama Claude Code.
+Mahasiswa Teknik Sipil Universitas Jambi, minat utama geoteknik. Saya membuat kalkulator dengan langkah hitungan, pengolah data praktikum Mekanika Tanah, dan latihan soal, lalu mencatat cara saya belajar bersama Claude Code.
 
-**[Buka situs →](https://defsayurinda.github.io/)** · [Semua alat](https://defsayurinda.github.io/alat/) · [Latihan soal](https://defsayurinda.github.io/latihan/)
+**[Buka situs](https://defsayurinda.github.io/)** · [Semua alat](https://defsayurinda.github.io/alat/) · [Tentang saya](https://defsayurinda.github.io/tentang/)
 
 ### Alat
 
@@ -39,8 +39,8 @@ Kolom status menunjukkan sumber rumus tiap alat. Setiap hitungan diuji otomatis 
 - 25 Sep 2026 · [Tandai rujukan ASTM D422 dan catat status Tahap 2](https://github.com/defsayurinda/defsayurinda.github.io/commit/bb73f7e6d73f1a192f69790f59250abf02097ca0)
 <!-- AKTIVITAS:SELESAI -->
 
-### Tentang
+### In English
 
-Profil lengkap, pengalaman, dan cara saya memakai AI untuk kuliah ada di situs: **[Tentang saya](https://defsayurinda.github.io/tentang/)** · [Cara saya memakai AI](https://defsayurinda.github.io/cara-memakai-ai/)
+Civil engineering student at Universitas Jambi, Indonesia, mainly interested in geotechnical engineering. I build calculators with full step-by-step working, tools for soil mechanics lab data, and practice problems. The [site](https://defsayurinda.github.io/) and its tools are in Indonesian.
 
 <sub>Bagian alat, catatan, dan aktivitas diperbarui otomatis setiap hari oleh GitHub Actions dari repo [defsayurinda.github.io](https://github.com/defsayurinda/defsayurinda.github.io).</sub>
