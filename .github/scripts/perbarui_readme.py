@@ -1,4 +1,4 @@
-"""Perbarui bagian otomatis README profil dari isi repo Defsa-Yurinda.
+"""Perbarui bagian otomatis README profil dari isi repo situs defsayurinda.github.io.
 
 Bagian yang ditulis ulang ada di antara penanda:
   <!-- ALAT:MULAI -->      ... <!-- ALAT:SELESAI -->       halaman kalkulator dan latihan
@@ -19,9 +19,9 @@ import urllib.request
 from datetime import datetime
 from pathlib import Path
 
-PEMILIK, REPO = "defsayurinda-bot", "Defsa-Yurinda"
+PEMILIK, REPO = "defsayurinda", "defsayurinda.github.io"
 API = f"https://api.github.com/repos/{PEMILIK}/{REPO}"
-SITUS = f"https://{PEMILIK}.github.io/{REPO}/"
+SITUS = f"https://{PEMILIK}.github.io/"
 BULAN = "Jan Feb Mar Apr Mei Jun Jul Agu Sep Okt Nov Des".split()
 README = Path(__file__).resolve().parents[2] / "README.md"
 

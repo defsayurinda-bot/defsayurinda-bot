@@ -12,4 +12,4 @@ Nomor aturan mengikuti daftar lengkap di repo situs.
 
 ## Rujukan
 
-Aturan lengkap (Aturan wajib 1–8, Aturan Sumber, privasi, format laporan) dan rencana per tahap ada di repo situs `defsayurinda-bot/Defsa-Yurinda`: `CLAUDE.md` dan `.claude/rencana.md`. Aturan di sana berlaku juga untuk repo ini.
+Aturan lengkap (Aturan wajib 1–8, Aturan Sumber, privasi, format laporan) dan rencana per tahap ada di repo situs `defsayurinda/defsayurinda.github.io`: `CLAUDE.md` dan `.claude/rencana.md`. Aturan di sana berlaku juga untuk repo ini.
