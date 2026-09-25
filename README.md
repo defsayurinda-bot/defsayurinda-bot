@@ -10,13 +10,13 @@ Mahasiswa Teknik Sipil di Universitas Jambi, dengan minat utama geoteknik. Saya 
 ### Alat
 
 <!-- ALAT:MULAI -->
-| Alat | Isi |
-|---|---|
-| [Kalkulator Penurunan Konsolidasi](https://defsayurinda.github.io/kalkulator/konsolidasi.html) | Hitung penurunan konsolidasi primer satu dimensi untuk lempung NC dan OC beserta lajunya terhadap waktu, lengkap dengan diagram e–log σ' dan langkah hitungan. |
-| [Kalkulator Pondasi Dangkal](https://defsayurinda.github.io/kalkulator/pondasi-dangkal.html) | Hitung kapasitas dukung pondasi dangkal dengan persamaan daya dukung umum: faktor bentuk, kedalaman, dan koreksi muka air tanah, lengkap dengan langkah hitungan. |
-| [Kalkulator Tiang Bor N-SPT](https://defsayurinda.github.io/kalkulator/tiang-bor.html) | Hitung daya dukung aksial tiang bor dari data N-SPT dengan metode Reese & Wright (1977) dan Meyerhof (1976), lengkap dengan langkah hitungan. |
-| [Praktikum Mekanika Tanah](https://defsayurinda.github.io/praktikum/) | 16 alat pengolah data praktikum Mekanika Tanah: formulir seperti lembar data laboratorium, langkah hitungan, grafik, dan ekspor ke Word dan Excel. |
-| [Latihan Soal Geoteknik](https://defsayurinda.github.io/latihan/) | Latihan soal geoteknik dengan angka acak dan pembahasan langkah demi langkah: pondasi dangkal, konsolidasi, dan tiang bor. |
+| Alat | Isi | Status sumber |
+|---|---|---|
+| [Kalkulator Tiang Bor N-SPT](https://defsayurinda.github.io/kalkulator/tiang-bor.html) | Hitung daya dukung aksial tiang bor dari data N-SPT dengan metode Reese & Wright (1977), lengkap dengan langkah hitungan dan asumsinya. | Sumber sekunder |
+| [Kalkulator Pondasi Dangkal](https://defsayurinda.github.io/kalkulator/pondasi-dangkal.html) | Hitung kapasitas dukung pondasi dangkal dengan persamaan daya dukung umum: faktor bentuk, kedalaman, dan koreksi muka air tanah, lengkap dengan langkah hitungan. | Belum terverifikasi |
+| [Kalkulator Penurunan Konsolidasi](https://defsayurinda.github.io/kalkulator/konsolidasi.html) | Hitung penurunan konsolidasi primer satu dimensi untuk lempung NC dan OC beserta lajunya terhadap waktu, lengkap dengan diagram e–log σ' dan langkah hitungan. | Belum terverifikasi |
+| [Praktikum Mekanika Tanah](https://defsayurinda.github.io/praktikum/) | 16 alat pengolah data praktikum Mekanika Tanah: formulir seperti lembar data laboratorium, langkah hitungan, grafik, dan ekspor ke Word dan Excel. | Belum terverifikasi |
+| [Latihan Soal Geoteknik](https://defsayurinda.github.io/latihan/) | Latihan soal geoteknik dengan angka acak dan pembahasan langkah demi langkah: pondasi dangkal, konsolidasi, dan tiang bor. | Belum terverifikasi |
 <!-- ALAT:SELESAI -->
 
 Setiap hitungan diuji otomatis terhadap perhitungan Python terpisah dan nilai tabel buku teks.
@@ -32,11 +32,11 @@ Setiap hitungan diuji otomatis terhadap perhitungan Python terpisah dan nilai ta
 ### Aktivitas terbaru
 
 <!-- AKTIVITAS:MULAI -->
-- 25 Sep 2026 · [Tandai Tahap 1 selesai dan pakai nama repo catatan-pribadi](https://github.com/defsayurinda/defsayurinda.github.io/commit/0f0a5c6598d0488514957e54488170ac0fcf7d09)
-- 25 Sep 2026 · [Ganti rujukan nama lama ke akun defsayurinda](https://github.com/defsayurinda/defsayurinda.github.io/commit/87872eb86e90038042c9d4eb66dac5a2ca5da199)
-- 25 Sep 2026 · [Ganti email git di pengaturan Claude Code ke akun defsayurinda](https://github.com/defsayurinda/defsayurinda.github.io/commit/243b77692bd702285b490106af009642e9121569)
-- 25 Sep 2026 · [Pasang plugin ponytail di pengaturan Claude Code](https://github.com/defsayurinda/defsayurinda.github.io/commit/ed4f0ac1ff187cc9c3f0b2d6f820c666df92f175)
-- 25 Sep 2026 · [Catat pemeriksaan variabel lingkungan git di CLAUDE.md](https://github.com/defsayurinda/defsayurinda.github.io/commit/1faf95b1c5ef4c3218828bc88ed98fe5eef1c582)
+- 25 Sep 2026 · [Bangun kartu, daftar alat, dan README dari registri; tambah skill dan panduan](https://github.com/defsayurinda/defsayurinda.github.io/commit/6c6c0bd6b3f68c346be6040d71450456112bd849)
+- 25 Sep 2026 · [Tambah registri alat, buat.py, dan uji registri](https://github.com/defsayurinda/defsayurinda.github.io/commit/ee0e1a5272b838a8c68f169217e8f5e9e2c8765b)
+- 25 Sep 2026 · [Izinkan Claude merge PR sendiri setelah uji lulus](https://github.com/defsayurinda/defsayurinda.github.io/commit/cdb0d6302de393907a0abc5dc168b8a7d738168a)
+- 25 Sep 2026 · [Samakan rumus ujung Reese & Wright dengan sumber](https://github.com/defsayurinda/defsayurinda.github.io/commit/f39de39212b676ec9bb107e367cc493ffb616dc2)
+- 25 Sep 2026 · [Tandai rujukan ASTM D422 dan catat status Tahap 2](https://github.com/defsayurinda/defsayurinda.github.io/commit/bb73f7e6d73f1a192f69790f59250abf02097ca0)
 <!-- AKTIVITAS:SELESAI -->
 
 ### Tentang
