@@ -10,4 +10,4 @@ Mahasiswa Teknik Sipil, Universitas Jambi. Minat utama: geoteknik.
 
 | Repo | Isi |
 |---|---|
-| [defsa-yurinda](https://github.com/defsayurinda-bot/defsa-yurinda) | Catatan belajar dan memakai Claude untuk kuliah teknik sipil: profil, cara kerja, contoh prompt, dan skill |
+| [Defsa-Yurinda](https://github.com/defsayurinda-bot/Defsa-Yurinda) | Catatan belajar dan memakai Claude untuk kuliah teknik sipil: profil, cara kerja, contoh prompt, dan skill |
