@@ -23,6 +23,7 @@ Setiap hitungan diuji otomatis terhadap perhitungan Python terpisah dan nilai ta
 ### Catatan belajar
 
 <!-- CATATAN:MULAI -->
+- **03** · [Membangun situs dan kalkulator bersama Claude Code](https://github.com/defsayurinda-bot/Defsa-Yurinda/blob/main/catatan/03-membangun-situs-dan-kalkulator.md)
 - **02** · [Git dan Pull Request pertama](https://github.com/defsayurinda-bot/Defsa-Yurinda/blob/main/catatan/02-git-dan-pull-request-pertama.md)
 - **01** · [Mengenal Claude dan Claude Code](https://github.com/defsayurinda-bot/Defsa-Yurinda/blob/main/catatan/01-mengenal-claude-dan-claude-code.md)
 <!-- CATATAN:SELESAI -->
@@ -30,11 +31,11 @@ Setiap hitungan diuji otomatis terhadap perhitungan Python terpisah dan nilai ta
 ### Aktivitas terbaru
 
 <!-- AKTIVITAS:MULAI -->
+- 25 Sep 2026 · [Tambah pratinjau tautan, halaman 404, lencana pengujian, catatan 03](https://github.com/defsayurinda-bot/Defsa-Yurinda/commit/eff65e44f593de1ead6ba2b6d9a1b92160bd908b)
 - 25 Sep 2026 · [Tambah bank soal latihan geoteknik](https://github.com/defsayurinda-bot/Defsa-Yurinda/commit/3d37e56447b0e45409d7e010984ac095ba8b60aa)
 - 25 Sep 2026 · [Tambah kalkulator pondasi dangkal dan penurunan konsolidasi](https://github.com/defsayurinda-bot/Defsa-Yurinda/commit/86ef7f1561df8fa94455ac90244b6e7322b1b4cd)
 - 25 Sep 2026 · [Tambah situs dan kalkulator daya dukung tiang bor N-SPT](https://github.com/defsayurinda-bot/Defsa-Yurinda/commit/96712d5b93a378ef3e0ba63a544a3349ea6410a6)
 - 25 Sep 2026 · [Tambah CLAUDE.md berisi aturan isi repo publik](https://github.com/defsayurinda-bot/Defsa-Yurinda/commit/92e9736fb6e5c02627e6229442d4609f04360754)
-- 25 Sep 2026 · [Isi awal: profil, catatan belajar, cara memakai Claude, skill, lisensi](https://github.com/defsayurinda-bot/Defsa-Yurinda/commit/d09a7a79142a0e97c5119e9cf9aaa46c44d7dddf)
 <!-- AKTIVITAS:SELESAI -->
 
 ### Tentang
