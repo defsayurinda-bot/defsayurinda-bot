@@ -32,11 +32,11 @@ Setiap hitungan diuji otomatis terhadap perhitungan Python terpisah dan nilai ta
 ### Aktivitas terbaru
 
 <!-- AKTIVITAS:MULAI -->
-- 25 Sep 2026 · [Perbarui deskripsi halaman praktikum](https://github.com/defsayurinda/defsayurinda.github.io/commit/4724ca9014222732a0a9b94629b902974e80c9fe)
-- 25 Sep 2026 · [Tambah sondir dan SPT dengan log bor](https://github.com/defsayurinda/defsayurinda.github.io/commit/965c76078e7e4fb4fe77105be714172726e2b574)
-- 25 Sep 2026 · [Tambah CBR, geser langsung, kuat tekan bebas, dan konsolidasi](https://github.com/defsayurinda/defsayurinda.github.io/commit/a8d15c51b2590fd99a3fdfd4f52a41d20d96512e)
-- 25 Sep 2026 · [Tambah hidrometer, klasifikasi, batas susut, dan hubungan fase](https://github.com/defsayurinda/defsayurinda.github.io/commit/1c2323f63cabee9d1173640fb2efc654e6817497)
-- 25 Sep 2026 · [Tambah alat praktikum Mekanika Tanah gelombang 1](https://github.com/defsayurinda/defsayurinda.github.io/commit/79d0dc1bca42789a628036a79c4d83c523e7b85f)
+- 25 Sep 2026 · [Ganti rujukan nama lama ke akun defsayurinda](https://github.com/defsayurinda/defsayurinda.github.io/commit/c79ee1ade8c0013f4fc99eea076a24fe6f609856)
+- 25 Sep 2026 · [Ganti email git di pengaturan Claude Code ke akun defsayurinda](https://github.com/defsayurinda/defsayurinda.github.io/commit/55168b03a6ad71da8f2f5b7789fc5f1b3044c085)
+- 25 Sep 2026 · [Pasang plugin ponytail di pengaturan Claude Code](https://github.com/defsayurinda/defsayurinda.github.io/commit/72f26a7ac112965a9b9f5a91b3d13ee54911be57)
+- 25 Sep 2026 · [Catat pemeriksaan variabel lingkungan git di CLAUDE.md](https://github.com/defsayurinda/defsayurinda.github.io/commit/4310aba7843f6965af05ee469f29ba8e28e2d2c0)
+- 25 Sep 2026 · [Timpa email git dari lingkungan cloud](https://github.com/defsayurinda/defsayurinda.github.io/commit/a87a4370a79fc89b50e8d868c410e23843117342)
 <!-- AKTIVITAS:SELESAI -->
 
 ### Tentang
