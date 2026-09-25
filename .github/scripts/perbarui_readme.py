@@ -46,6 +46,7 @@ def tanggal(iso):
 def bagian_alat():
     halaman = [(f["name"], f"docs/kalkulator/{f['name']}", f"kalkulator/{f['name']}")
                for f in ambil(f"{API}/contents/docs/kalkulator") if f["name"].endswith(".html")]
+    halaman.append(("praktikum", "docs/praktikum/index.html", "praktikum/"))
     halaman.append(("latihan", "docs/latihan/index.html", "latihan/"))
     baris = []
     for _, jalur, url in halaman:
