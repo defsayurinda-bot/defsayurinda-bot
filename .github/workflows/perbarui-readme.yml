@@ -1,0 +1,35 @@
+name: Perbarui README
+
+on:
+  schedule:
+    - cron: "23 22 * * *"   # setiap hari 05.23 WIB
+  workflow_dispatch:         # bisa dijalankan manual dari tab Actions
+  push:
+    branches: [main]
+    paths:
+      - ".github/scripts/perbarui_readme.py"
+      - ".github/workflows/perbarui-readme.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  perbarui:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Tulis ulang bagian otomatis README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/perbarui_readme.py
+      - name: Commit bila ada perubahan
+        run: |
+          if git diff --quiet README.md; then
+            echo "Tidak ada perubahan."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Perbarui README otomatis"
+          git push
