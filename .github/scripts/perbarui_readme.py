@@ -1,7 +1,7 @@
 """Perbarui bagian otomatis README profil dari isi repo situs defsayurinda.github.io.
 
 Bagian yang ditulis ulang ada di antara penanda:
-  <!-- ALAT:MULAI -->      ... <!-- ALAT:SELESAI -->       halaman kalkulator dan latihan
+  <!-- ALAT:MULAI -->      ... <!-- ALAT:SELESAI -->       tabel alat dari registri konten/alat.json
   <!-- CATATAN:MULAI -->   ... <!-- CATATAN:SELESAI -->    catatan belajar (konten/catatan), terbaru di atas
   <!-- AKTIVITAS:MULAI --> ... <!-- AKTIVITAS:SELESAI -->  commit terbaru di main
 
@@ -10,7 +10,6 @@ lebih longgar); repo sumbernya public, jadi skrip juga jalan tanpa token.
 
 Jalankan dari akar repo profil:  python3 .github/scripts/perbarui_readme.py
 """
-import html
 import json
 import os
 import re
@@ -43,18 +42,15 @@ def tanggal(iso):
     return f"{d.day} {BULAN[d.month - 1]} {d.year}"
 
 
+STATUS = {"asli": "Sumber asli", "sekunder": "Sumber sekunder", "belum": "Belum terverifikasi"}
+
+
 def bagian_alat():
-    halaman = [(f["name"], f"docs/kalkulator/{f['name']}", f"kalkulator/{f['name']}")
-               for f in ambil(f"{API}/contents/docs/kalkulator") if f["name"].endswith(".html")]
-    halaman.append(("praktikum", "docs/praktikum/index.html", "praktikum/"))
-    halaman.append(("latihan", "docs/latihan/index.html", "latihan/"))
-    baris = []
-    for _, jalur, url in halaman:
-        isi = ambil(f"https://raw.githubusercontent.com/{PEMILIK}/{REPO}/main/{jalur}", json_=False)
-        judul = html.unescape(re.search(r"<title>(.*?)</title>", isi, re.S).group(1).split(" · ")[0].strip())
-        desk = html.unescape(re.search(r'<meta name="description" content="(.*?)"', isi, re.S).group(1).strip())
-        baris.append(f"| [{judul}]({SITUS}{url}) | {desk} |")
-    return "| Alat | Isi |\n|---|---|\n" + "\n".join(baris)
+    """Tabel alat dari registri konten/alat.json di repo situs."""
+    reg = json.loads(ambil(f"https://raw.githubusercontent.com/{PEMILIK}/{REPO}/main/konten/alat.json", json_=False))
+    baris = [f"| [{a['judul_pendek']}]({SITUS}{a['halaman']}) | {a['deskripsi']} | {STATUS.get(a['status'], a['status'])} |"
+             for a in reg["alat"]]
+    return "| Alat | Isi | Status sumber |\n|---|---|---|\n" + "\n".join(baris)
 
 
 def bagian_catatan():
