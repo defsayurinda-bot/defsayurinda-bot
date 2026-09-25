@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Defsa Yurinda, Teknik Sipil Universitas Jambi">
+  <rect width="1200" height="300" fill="#1f1b17"/>
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="64" y="96" font-size="20" font-weight="700" letter-spacing="3" fill="#ff7a4d">TEKNIK SIPIL · UNIVERSITAS JAMBI</text>
+    <text x="62" y="170" font-size="68" font-weight="800" fill="#f2ede6">Defsa Yurinda</text>
+    <text x="64" y="220" font-size="24" fill="#b5aca0">Geoteknik · kalkulator dengan langkah hitungan · latihan soal</text>
+  </g>
+  <g transform="translate(830 40)">
+    <rect x="0" y="50" width="300" height="70" fill="#7a5a44"/>
+    <rect x="0" y="120" width="300" height="60" fill="#8b6c55"/>
+    <rect x="0" y="180" width="300" height="40" fill="#8c7a45"/>
+    <line x1="0" y1="50" x2="300" y2="50" stroke="#f2ede6" stroke-width="4"/>
+    <rect x="130" y="8" width="40" height="182" rx="5" fill="#a9aeb6" stroke="#f2ede6" stroke-width="3"/>
+    <rect x="0" y="160" width="300" height="60" fill="none" stroke="#ff7a4d" stroke-width="3" stroke-dasharray="12 8"/>
+    <path d="M150 200 l-14 20 h28 z" fill="#ff7a4d"/>
+  </g>
+  <rect x="0" y="288" width="1200" height="12" fill="#ff7a4d"/>
+</svg>
