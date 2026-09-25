@@ -5,7 +5,7 @@
 
 Mahasiswa Teknik Sipil di Universitas Jambi, dengan minat utama geoteknik. Saya membuat alat hitung dan latihan soal geoteknik yang bisa dipakai siapa saja, dan mencatat cara saya belajar bersama Claude Code.
 
-**[Buka situs →](https://defsayurinda-bot.github.io/Defsa-Yurinda/)**
+**[Buka situs →](https://defsayurinda-bot.github.io/Defsa-Yurinda/)** · [Semua alat](https://defsayurinda-bot.github.io/Defsa-Yurinda/alat/) · [Latihan soal](https://defsayurinda-bot.github.io/Defsa-Yurinda/latihan/)
 
 ### Alat
 
@@ -23,26 +23,23 @@ Setiap hitungan diuji otomatis terhadap perhitungan Python terpisah dan nilai ta
 ### Catatan belajar
 
 <!-- CATATAN:MULAI -->
-- **03** · [Membangun situs dan kalkulator bersama Claude Code](https://github.com/defsayurinda-bot/Defsa-Yurinda/blob/main/catatan/03-membangun-situs-dan-kalkulator.md)
-- **02** · [Git dan Pull Request pertama](https://github.com/defsayurinda-bot/Defsa-Yurinda/blob/main/catatan/02-git-dan-pull-request-pertama.md)
-- **01** · [Mengenal Claude dan Claude Code](https://github.com/defsayurinda-bot/Defsa-Yurinda/blob/main/catatan/01-mengenal-claude-dan-claude-code.md)
+- **03** · [Membangun situs dan kalkulator bersama Claude Code](https://defsayurinda-bot.github.io/Defsa-Yurinda/catatan/03-membangun-situs-dan-kalkulator/)
+- **02** · [Git dan Pull Request pertama](https://defsayurinda-bot.github.io/Defsa-Yurinda/catatan/02-git-dan-pull-request-pertama/)
+- **01** · [Mengenal Claude dan Claude Code](https://defsayurinda-bot.github.io/Defsa-Yurinda/catatan/01-mengenal-claude-dan-claude-code/)
 <!-- CATATAN:SELESAI -->
 
 ### Aktivitas terbaru
 
 <!-- AKTIVITAS:MULAI -->
+- 25 Sep 2026 · [Jadikan situs pintu utama; satu sumber tulisan di konten/](https://github.com/defsayurinda-bot/Defsa-Yurinda/commit/88935a494f58ff0588d86befc02d9fce02c12749)
 - 25 Sep 2026 · [Tambah pratinjau tautan, halaman 404, lencana pengujian, catatan 03](https://github.com/defsayurinda-bot/Defsa-Yurinda/commit/eff65e44f593de1ead6ba2b6d9a1b92160bd908b)
 - 25 Sep 2026 · [Tambah bank soal latihan geoteknik](https://github.com/defsayurinda-bot/Defsa-Yurinda/commit/3d37e56447b0e45409d7e010984ac095ba8b60aa)
 - 25 Sep 2026 · [Tambah kalkulator pondasi dangkal dan penurunan konsolidasi](https://github.com/defsayurinda-bot/Defsa-Yurinda/commit/86ef7f1561df8fa94455ac90244b6e7322b1b4cd)
 - 25 Sep 2026 · [Tambah situs dan kalkulator daya dukung tiang bor N-SPT](https://github.com/defsayurinda-bot/Defsa-Yurinda/commit/96712d5b93a378ef3e0ba63a544a3349ea6410a6)
-- 25 Sep 2026 · [Tambah CLAUDE.md berisi aturan isi repo publik](https://github.com/defsayurinda-bot/Defsa-Yurinda/commit/92e9736fb6e5c02627e6229442d4609f04360754)
 <!-- AKTIVITAS:SELESAI -->
 
 ### Tentang
 
-- Sedang mengerjakan: tugas akhir tentang daya dukung fondasi tiang bor
-- Perangkat lunak: Word, Excel, PowerPoint, AutoCAD, Revit; dasar ETABS, SAP2000, PLAXIS
-- Sedang belajar: Git, GitHub, Claude Code
-- Cara saya memakai AI untuk kuliah: [preferensi](https://github.com/defsayurinda-bot/Defsa-Yurinda/blob/main/cara-saya-memakai-claude/preferensi.md) · [batasan dan etika](https://github.com/defsayurinda-bot/Defsa-Yurinda/blob/main/cara-saya-memakai-claude/batasan-dan-etika.md)
+Profil lengkap, pengalaman, dan cara saya memakai AI untuk kuliah ada di situs: **[Tentang saya](https://defsayurinda-bot.github.io/Defsa-Yurinda/tentang/)** · [Cara saya memakai AI](https://defsayurinda-bot.github.io/Defsa-Yurinda/cara-memakai-ai/)
 
 <sub>Bagian alat, catatan, dan aktivitas diperbarui otomatis setiap hari oleh GitHub Actions dari repo [Defsa-Yurinda](https://github.com/defsayurinda-bot/Defsa-Yurinda).</sub>

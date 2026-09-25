@@ -2,7 +2,7 @@
 
 Bagian yang ditulis ulang ada di antara penanda:
   <!-- ALAT:MULAI -->      ... <!-- ALAT:SELESAI -->       halaman kalkulator dan latihan
-  <!-- CATATAN:MULAI -->   ... <!-- CATATAN:SELESAI -->    catatan belajar, terbaru di atas
+  <!-- CATATAN:MULAI -->   ... <!-- CATATAN:SELESAI -->    catatan belajar (konten/catatan), terbaru di atas
   <!-- AKTIVITAS:MULAI --> ... <!-- AKTIVITAS:SELESAI -->  commit terbaru di main
 
 Hanya memakai pustaka bawaan Python. Token GITHUB_TOKEN dipakai bila ada (batas permintaan
@@ -22,7 +22,6 @@ from pathlib import Path
 PEMILIK, REPO = "defsayurinda-bot", "Defsa-Yurinda"
 API = f"https://api.github.com/repos/{PEMILIK}/{REPO}"
 SITUS = f"https://{PEMILIK}.github.io/{REPO}/"
-BLOB = f"https://github.com/{PEMILIK}/{REPO}/blob/main/"
 BULAN = "Jan Feb Mar Apr Mei Jun Jul Agu Sep Okt Nov Des".split()
 README = Path(__file__).resolve().parents[2] / "README.md"
 
@@ -58,13 +57,13 @@ def bagian_alat():
 
 
 def bagian_catatan():
-    berkas = sorted((f for f in ambil(f"{API}/contents/catatan") if f["name"].endswith(".md")),
+    berkas = sorted((f for f in ambil(f"{API}/contents/konten/catatan") if f["name"].endswith(".md")),
                     key=lambda f: f["name"], reverse=True)
     baris = []
     for f in berkas:
         judul_md = ambil(f["download_url"], json_=False).splitlines()[0].lstrip("# ").strip()
         nomor, _, judul = judul_md.partition(" — ")
-        baris.append(f"- **{nomor}** · [{judul or judul_md}]({BLOB}catatan/{f['name']})")
+        baris.append(f"- **{nomor}** · [{judul or judul_md}]({SITUS}catatan/{f['name'].removesuffix('.md')}/)")
     return "\n".join(baris)
 
 
