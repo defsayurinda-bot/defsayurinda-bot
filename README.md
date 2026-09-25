@@ -19,7 +19,7 @@ Mahasiswa Teknik Sipil di Universitas Jambi, dengan minat utama geoteknik. Saya 
 | [Latihan Soal Geoteknik](https://defsayurinda.github.io/latihan/) | Latihan soal geoteknik dengan angka acak dan pembahasan langkah demi langkah: pondasi dangkal, konsolidasi, dan tiang bor. | Belum terverifikasi |
 <!-- ALAT:SELESAI -->
 
-Setiap hitungan diuji otomatis terhadap perhitungan Python terpisah dan nilai tabel buku teks.
+Kolom status menunjukkan sumber rumus tiap alat. Setiap hitungan diuji otomatis terhadap perhitungan Python terpisah; contoh soal buku utuh belum ada untuk semua alat.
 
 ### Catatan belajar
 
