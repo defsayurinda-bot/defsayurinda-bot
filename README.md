@@ -32,11 +32,11 @@ Setiap hitungan diuji otomatis terhadap perhitungan Python terpisah dan nilai ta
 ### Aktivitas terbaru
 
 <!-- AKTIVITAS:MULAI -->
+- 25 Sep 2026 · [Tambah sondir dan SPT dengan log bor](https://github.com/defsayurinda-bot/Defsa-Yurinda/commit/965c76078e7e4fb4fe77105be714172726e2b574)
+- 25 Sep 2026 · [Tambah CBR, geser langsung, kuat tekan bebas, dan konsolidasi](https://github.com/defsayurinda-bot/Defsa-Yurinda/commit/a8d15c51b2590fd99a3fdfd4f52a41d20d96512e)
+- 25 Sep 2026 · [Tambah hidrometer, klasifikasi, batas susut, dan hubungan fase](https://github.com/defsayurinda-bot/Defsa-Yurinda/commit/1c2323f63cabee9d1173640fb2efc654e6817497)
 - 25 Sep 2026 · [Tambah alat praktikum Mekanika Tanah gelombang 1](https://github.com/defsayurinda-bot/Defsa-Yurinda/commit/79d0dc1bca42789a628036a79c4d83c523e7b85f)
 - 25 Sep 2026 · [Jadikan situs pintu utama; satu sumber tulisan di konten/](https://github.com/defsayurinda-bot/Defsa-Yurinda/commit/88935a494f58ff0588d86befc02d9fce02c12749)
-- 25 Sep 2026 · [Tambah pratinjau tautan, halaman 404, lencana pengujian, catatan 03](https://github.com/defsayurinda-bot/Defsa-Yurinda/commit/eff65e44f593de1ead6ba2b6d9a1b92160bd908b)
-- 25 Sep 2026 · [Tambah bank soal latihan geoteknik](https://github.com/defsayurinda-bot/Defsa-Yurinda/commit/3d37e56447b0e45409d7e010984ac095ba8b60aa)
-- 25 Sep 2026 · [Tambah kalkulator pondasi dangkal dan penurunan konsolidasi](https://github.com/defsayurinda-bot/Defsa-Yurinda/commit/86ef7f1561df8fa94455ac90244b6e7322b1b4cd)
 <!-- AKTIVITAS:SELESAI -->
 
 ### Tentang
