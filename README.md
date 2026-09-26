@@ -32,11 +32,11 @@ Kolom status menunjukkan sumber rumus tiap alat. Setiap hitungan diuji otomatis 
 ### Aktivitas terbaru
 
 <!-- AKTIVITAS:MULAI -->
+- 25 Sep 2026 · [Simpan KaTeX dan huruf lokal; tambah offline, pencarian, laporan, dan status](https://github.com/defsayurinda/defsayurinda.github.io/commit/4a5058ca513e4e87065c719282d2740075f8674b)
+- 25 Sep 2026 · [Lengkapi berkas standar repo dan tulis ulang README](https://github.com/defsayurinda/defsayurinda.github.io/commit/3685440e28f3533af241cdb3e89bfa7e9b6835d3)
+- 25 Sep 2026 · [Luruskan klaim sumber, catatan memori, dan pisahkan lisensi](https://github.com/defsayurinda/defsayurinda.github.io/commit/25fa8c4a7cc248fce50759222f9ab6236334b17c)
 - 25 Sep 2026 · [Bangun kartu, daftar alat, dan README dari registri; tambah skill dan panduan](https://github.com/defsayurinda/defsayurinda.github.io/commit/6c6c0bd6b3f68c346be6040d71450456112bd849)
 - 25 Sep 2026 · [Tambah registri alat, buat.py, dan uji registri](https://github.com/defsayurinda/defsayurinda.github.io/commit/ee0e1a5272b838a8c68f169217e8f5e9e2c8765b)
-- 25 Sep 2026 · [Izinkan Claude merge PR sendiri setelah uji lulus](https://github.com/defsayurinda/defsayurinda.github.io/commit/cdb0d6302de393907a0abc5dc168b8a7d738168a)
-- 25 Sep 2026 · [Samakan rumus ujung Reese & Wright dengan sumber](https://github.com/defsayurinda/defsayurinda.github.io/commit/f39de39212b676ec9bb107e367cc493ffb616dc2)
-- 25 Sep 2026 · [Tandai rujukan ASTM D422 dan catat status Tahap 2](https://github.com/defsayurinda/defsayurinda.github.io/commit/bb73f7e6d73f1a192f69790f59250abf02097ca0)
 <!-- AKTIVITAS:SELESAI -->
 
 ### In English
